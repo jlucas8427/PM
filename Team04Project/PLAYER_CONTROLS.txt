@@ -1,0 +1,18 @@
+Player Controls
+
+left arrow  = move left
+A 	    = move left
+
+right arrow = move right
+B           = move right
+
+down arrow  = crouch
+S 	    = crouch
+
+up arrow    = jump
+W           = jump
+SpaceBar    = jump
+
+F           = attack
+
+ESC	    = exit game
